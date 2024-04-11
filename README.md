@@ -4,7 +4,7 @@
 
 This project showcases guards for detecting client browser to protect routes from being accessed from [Firefox](https://www.mozilla.org/en-US/firefox/) or [Chrome](https://www.google.com/chrome/) browsers.
 
-It uses [Device Dector](https://www.npmjs.com/package/device-detector-js) library.
+It uses [Device Detector](https://www.npmjs.com/package/device-detector-js) library.
 
 ## Installation
 
