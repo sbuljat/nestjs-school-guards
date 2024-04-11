@@ -1,6 +1,6 @@
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework "personal" school on using [Guards](https://docs.nestjs.com/guards).
+[Nest](https://github.com/nestjs/nest) framework educational project on using [Guards](https://docs.nestjs.com/guards).
 
 This project showcases guards for detecting client browser to protect routes from being accessed from [Firefox](https://www.mozilla.org/en-US/firefox/) or [Chrome](https://www.google.com/chrome/) browsers.
 
@@ -16,10 +16,10 @@ $ npm install
 
 ```bash
 # development
-$ npm run start
+$ npm start
 
 # watch mode
-$ npm run start:dev
+$ nest start --watch
 ```
 
 ## Testing the app
